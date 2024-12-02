@@ -4,9 +4,11 @@
 
 ### Soft Skills: Fast Learner, Problem Solving, Decision Making, Resourceful, Independent, Self Motivated, Accountability
 
+
 ## Education
  - Bachelor of Chemical Engineering (Honours) | Curtin University Malaysia (2019)
  - Foundation of Engineering | Curtin University Malaysia (2013)
+
 
 ## Work Experience
 #### Production Engineer | Recron (M) Sdn Bhd (Mar 2023 - Current)
@@ -22,7 +24,8 @@
 - Spearheaded routine maintenance & periodic service to ensure longevity of plant equipment.
 - Maximized the usage of statistical analyzing tools in collect & analyse operation data for plant performance evaluation.
 
-## Personal Project
+
+## Data Analyst Project
 #### Data Cleaning & Analysis using SQL
 - Conducted data cleaning of the raw games & console sales file then proceeded to perform exploratory data analysis.
 - The objective of this analysis is to determine the top 10 highest selling modern games of all time, most selling modern console and most preferred gaming platform for game release.
@@ -44,10 +47,12 @@
 - Constructed a basic salary increment calculator with a Malaysian twist.
 - Implemented counter measures for predicted error based on user input.
 
+
 ## Languages
 - Malay | Native
 - English | Full Professional Profieciency
 - French | Intermediate
+
 
 ## Additional Certification
 - Basic First Aid & CPR Certificate (Exp: 15 June 2026)
