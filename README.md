@@ -1,6 +1,8 @@
 # Data Analyst Portfolio
 
-### Technical Skills: SQL, Power BI, Python, Excel
+### Technical Skills: SQL, Power BI, Python, Excel, HTML, Visual Code Studio
+
+### Soft Skills: Fast Learner, Problem Solving, Decision Making, Resourceful, Independent, Self Motivated, Accountability
 
 ## Education
  - Bachelor of Chemical Engineering (Honours) | Curtin University Malaysia (2019)
@@ -41,3 +43,11 @@
 #### Salary Increment Calculator using Python (Mini Project)
 - Constructed a basic salary increment calculator with a Malaysian twist.
 - Implemented counter measures for predicted error based on user input.
+
+## Languages
+- Malay | Native
+- English | Full Professional Profieciency
+- French | Intermediate
+
+## Additional Certification
+- Basic First Aid & CPR Certificate (Exp: 15 June 2026)
