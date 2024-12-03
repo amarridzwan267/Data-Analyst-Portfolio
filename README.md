@@ -4,6 +4,10 @@
 
 ### Soft Skills: Fast Learner, Problem Solving, Decision Making, Resourceful, Independent, Self Motivated, Accountability
 
+## Education
+ - Bachelor of Chemical Engineering (Honours) | Curtin University Malaysia (2019)
+ - Foundation of Engineering | Curtin University Malaysia (2013)
+
 ## Data Analyst Project
 #### Data Cleaning & Analysis using SQL
 - Conducted data cleaning of the raw games & console sales file then proceeded to perform exploratory data analysis.
@@ -21,10 +25,6 @@
 #### Data Visualization & Analysis using Python
 - Consturcted visuals using different visual method to show relationship of factors affecting weekly Walmart sales.
 - Grouped together float type data into cleaner ranges to simplify visuals.
-
-## Education
- - Bachelor of Chemical Engineering (Honours) | Curtin University Malaysia (2019)
- - Foundation of Engineering | Curtin University Malaysia (2013)
 
 ## Work Experience
 #### Production Engineer | Recron (M) Sdn Bhd (Mar 2023 - Current)
