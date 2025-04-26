@@ -7,7 +7,7 @@
 ## Executive Summary
 A Microsoft Certified Data Analyst Associate seeking employment opportunity at a reputable organization as a data analyst. Highly motivated & independent production engineer with over 3+ years of experience in managing project progress seeking to leverage analytical skills & problem solving abilities to transition to a data analyst role. Proven track record of data collection, analysis, reporting & production management to optimize resource consumption & budget. Passionate about exploring the industry & learning new software skills to contribute data driven insights for strategic decision making. 
 
-## Additional Certification
+## Professional Certification
 - -Microsoft Power BI Data Analyst Associate (Expire 27 April 2026)
 - Basic First Aid & CPR Certificate (Exp: 15 June 2026)
 
@@ -66,7 +66,7 @@ A Microsoft Certified Data Analyst Associate seeking employment opportunity at a
 
 ## Languages
 - Malay | Native
-- English | Full Professional Profieciency
+- English | Full Professional Proficiency
 - French | Intermediate
 
 
